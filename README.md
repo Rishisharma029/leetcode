@@ -25,6 +25,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishisharma029/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Rishisharma029/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -119,6 +120,7 @@
 | [0015-3sum](https://github.com/Rishisharma029/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rishisharma029/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -207,6 +209,7 @@
 | [0039-combination-sum](https://github.com/Rishisharma029/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rishisharma029/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishisharma029/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
