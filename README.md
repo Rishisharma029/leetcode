@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rishisharma029/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rishisharma029/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -242,6 +243,7 @@
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,4 +252,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
