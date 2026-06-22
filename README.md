@@ -104,6 +104,7 @@
 | [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Rishisharma029/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Rishisharma029/leetcode/tree/master/0058-length-of-last-word) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
