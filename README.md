@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishisharma029/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishisharma029/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Rishisharma029/leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishisharma029/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishisharma029/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishisharma029/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Rishisharma029/leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
