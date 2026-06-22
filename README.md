@@ -72,6 +72,7 @@
 | [0069-sqrtx](https://github.com/Rishisharma029/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rishisharma029/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishisharma029/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -214,11 +216,13 @@
 | [0069-sqrtx](https://github.com/Rishisharma029/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishisharma029/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishisharma029/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Recursion
 |  |
@@ -261,6 +265,7 @@
 | [0085-maximal-rectangle](https://github.com/Rishisharma029/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Rishisharma029/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Rishisharma029/leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
