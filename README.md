@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Rishisharma029/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rishisharma029/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rishisharma029/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
