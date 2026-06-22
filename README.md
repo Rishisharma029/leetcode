@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishisharma029/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishisharma029/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -97,6 +98,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishisharma029/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishisharma029/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishisharma029/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -198,4 +201,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
