@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -71,6 +72,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Design
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
