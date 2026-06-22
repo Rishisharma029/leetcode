@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rishisharma029/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisharma029/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishisharma029/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisharma029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
