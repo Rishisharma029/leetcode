@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 ## Math
 |  |
 | ------- |
