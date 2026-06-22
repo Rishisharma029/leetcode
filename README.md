@@ -28,6 +28,7 @@
 | [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Rishisharma029/leetcode/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -218,6 +219,7 @@
 | [0040-combination-sum-ii](https://github.com/Rishisharma029/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rishisharma029/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Rishisharma029/leetcode/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
