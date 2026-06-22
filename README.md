@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rishisharma029/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishisharma029/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Rishisharma029/leetcode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -50,6 +51,7 @@
 | [0010-regular-expression-matching](https://github.com/Rishisharma029/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rishisharma029/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rishisharma029/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Rishisharma029/leetcode/tree/master/0014-longest-common-prefix) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rishisharma029/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
