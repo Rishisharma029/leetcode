@@ -35,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/Rishisharma029/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rishisharma029/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rishisharma029/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishisharma029/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rishisharma029/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishisharma029/leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
