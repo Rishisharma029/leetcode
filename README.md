@@ -23,6 +23,7 @@
 | [0040-combination-sum-ii](https://github.com/Rishisharma029/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Rishisharma029/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rishisharma029/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -170,6 +171,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishisharma029/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Rishisharma029/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
@@ -190,6 +192,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Rishisharma029/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
