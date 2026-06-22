@@ -127,6 +127,7 @@
 | [0068-text-justification](https://github.com/Rishisharma029/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Rishisharma029/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Rishisharma029/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@
 | [0041-first-missing-positive](https://github.com/Rishisharma029/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rishisharma029/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisharma029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishisharma029/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
 ## Greedy
 |  |
 | ------- |
