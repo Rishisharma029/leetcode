@@ -59,6 +59,7 @@
 | [0066-plus-one](https://github.com/Rishisharma029/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rishisharma029/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rishisharma029/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -214,6 +215,7 @@
 | [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rishisharma029/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
