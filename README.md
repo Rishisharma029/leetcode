@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishisharma029/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -198,6 +199,7 @@
 | [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rishisharma029/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rishisharma029/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
@@ -267,4 +269,8 @@
 | [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishisharma029/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
