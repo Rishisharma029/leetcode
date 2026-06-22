@@ -33,6 +33,7 @@
 | [0054-spiral-matrix](https://github.com/Rishisharma029/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rishisharma029/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rishisharma029/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Rishisharma029/leetcode/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
