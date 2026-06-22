@@ -70,6 +70,7 @@
 | [0067-add-binary](https://github.com/Rishisharma029/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rishisharma029/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Rishisharma029/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -109,6 +110,7 @@
 | [0029-divide-two-integers](https://github.com/Rishisharma029/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rishisharma029/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rishisharma029/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Rishisharma029/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Rishisharma029/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishisharma029/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -296,6 +298,7 @@
 | [0077-combinations](https://github.com/Rishisharma029/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rishisharma029/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rishisharma029/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Rishisharma029/leetcode/tree/master/0089-gray-code) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
