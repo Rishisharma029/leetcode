@@ -157,6 +157,7 @@
 | [0091-decode-ways](https://github.com/Rishisharma029/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Rishisharma029/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rishisharma029/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishisharma029/leetcode/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -326,6 +327,7 @@
 | [0091-decode-ways](https://github.com/Rishisharma029/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rishisharma029/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishisharma029/leetcode/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
