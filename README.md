@@ -37,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Rishisharma029/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rishisharma029/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Rishisharma029/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -54,6 +55,7 @@
 | [0050-powx-n](https://github.com/Rishisharma029/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rishisharma029/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Rishisharma029/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
