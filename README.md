@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Rishisharma029/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rishisharma029/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rishisharma029/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -32,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/Rishisharma029/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishisharma029/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rishisharma029/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -77,6 +79,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Rishisharma029/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rishisharma029/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
