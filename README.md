@@ -146,6 +146,7 @@
 | [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Rishisharma029/leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Rishisharma029/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Rishisharma029/leetcode/tree/master/0091-decode-ways) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -254,6 +255,7 @@
 | [0072-edit-distance](https://github.com/Rishisharma029/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Rishisharma029/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Rishisharma029/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Rishisharma029/leetcode/tree/master/0091-decode-ways) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
