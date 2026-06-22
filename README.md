@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/Rishisharma029/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Rishisharma029/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -39,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/Rishisharma029/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rishisharma029/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
