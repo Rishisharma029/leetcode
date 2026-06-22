@@ -27,6 +27,7 @@
 | [0046-permutations](https://github.com/Rishisharma029/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Rishisharma029/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -94,6 +95,7 @@
 | [0038-count-and-say](https://github.com/Rishisharma029/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rishisharma029/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Rishisharma029/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -115,6 +117,7 @@
 | [0036-valid-sudoku](https://github.com/Rishisharma029/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rishisharma029/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rishisharma029/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -123,6 +126,7 @@
 | [0016-3sum-closest](https://github.com/Rishisharma029/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rishisharma029/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Rishisharma029/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Rishisharma029/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
