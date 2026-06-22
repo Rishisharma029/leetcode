@@ -14,6 +14,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishisharma029/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Rishisharma029/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
