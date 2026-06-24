@@ -245,6 +245,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishisharma029/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishisharma029/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -264,6 +265,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishisharma029/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishisharma029/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -306,6 +308,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishisharma029/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishisharma029/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Rishisharma029/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Recursion
 |  |
