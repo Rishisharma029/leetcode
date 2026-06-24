@@ -1,80 +1,93 @@
 class Solution {
-public:
-    static constexpr long long MOD = 1000000007LL;
-    using Matrix = vector<vector<long long>>;
+    static constexpr int MOD = 1000000007;
+    static constexpr int MAXM = 75;
 
-    Matrix multiply(const Matrix &A, const Matrix &B) {
-        int n = A.size();
-        Matrix C(n, vector<long long>(n, 0));
+    struct Matrix {
+        long long a[MAXM][MAXM];
+        Matrix(bool ident = false) {
+            memset(a, 0, sizeof(a));
+            if (ident)
+                for (int i = 0; i < MAXM; i++)
+                    a[i][i] = 1;
+        }
+    };
 
-        for (int i = 0; i < n; i++) {
-            for (int k = 0; k < n; k++) {
-                if (!A[i][k]) continue;
-                long long val = A[i][k];
-                for (int j = 0; j < n; j++) {
-                    C[i][j] = (C[i][j] + val * B[k][j]) % MOD;
+    Matrix multiply(const Matrix &A, const Matrix &B, int m) {
+        Matrix C;
+        for (int i = 0; i < m; i++) {
+            for (int k = 0; k < m; k++) {
+                if (!A.a[i][k]) continue;
+                long long val = A.a[i][k];
+                for (int j = 0; j < m; j++) {
+                    C.a[i][j] += val * B.a[k][j];
+                    if (C.a[i][j] >= (1LL << 62))
+                        C.a[i][j] %= MOD;
                 }
             }
+            for (int j = 0; j < m; j++)
+                C.a[i][j] %= MOD;
         }
         return C;
     }
 
-    Matrix power(Matrix base, long long exp) {
-        int n = base.size();
-        Matrix res(n, vector<long long>(n, 0));
-        for (int i = 0; i < n; i++) res[i][i] = 1;
+    void matVec(const Matrix &A, long long vec[], int m) {
+        static long long tmp[MAXM];
+        memset(tmp, 0, sizeof(tmp));
 
-        while (exp > 0) {
-            if (exp & 1) res = multiply(res, base);
-            base = multiply(base, base);
-            exp >>= 1;
+        for (int i = 0; i < m; i++) {
+            long long sum = 0;
+            for (int j = 0; j < m; j++)
+                sum = (sum + A.a[i][j] * vec[j]) % MOD;
+            tmp[i] = sum;
         }
-        return res;
+
+        memcpy(vec, tmp, sizeof(tmp));
     }
 
-    long long sumAll(const Matrix &M) {
-        long long ans = 0;
-        int n = M.size();
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < n; j++)
-                ans = (ans + M[i][j]) % MOD;
-        return ans;
-    }
-
+public:
     int zigZagArrays(int n, int l, int r) {
         int m = r - l + 1;
 
-        Matrix A(m, vector<long long>(m, 0));
-        Matrix B(m, vector<long long>(m, 0));
+        Matrix C;
 
+        // C[i][j] = number of k such that i<k and j<k
+        // = (m-1) - max(i,j)
         for (int i = 0; i < m; i++) {
-            for (int j = i + 1; j < m; j++) {
-                A[i][j] = 1; // up
-                B[j][i] = 1; // down
+            for (int j = 0; j < m; j++) {
+                C.a[i][j] = max(0, m - 1 - max(i, j));
             }
         }
 
-        Matrix C = multiply(A, B);
-        Matrix D = multiply(B, A);
+        long long vec[MAXM];
 
-        if (n % 2 == 1) {
-            long long t = (n - 1) / 2;
-            Matrix Ct = power(C, t);
-            Matrix Dt = power(D, t);
-
-            long long ans = (sumAll(Ct) + sumAll(Dt)) % MOD;
-            return ans;
+        long long exp;
+        if (n & 1) {
+            // odd n = 2t+1
+            exp = (n - 1) / 2;
+            for (int i = 0; i < m; i++) vec[i] = 1;
         } else {
-            long long t = (n - 2) / 2;
-
-            Matrix Ct = power(C, t);
-            Matrix Dt = power(D, t);
-
-            Matrix X = multiply(Ct, A);
-            Matrix Y = multiply(Dt, B);
-
-            long long ans = (sumAll(X) + sumAll(Y)) % MOD;
-            return ans;
+            // even n = 2t+2
+            exp = (n - 2) / 2;
+            for (int i = 0; i < m; i++)
+                vec[i] = m - 1 - i;   // A * ones
         }
+
+        Matrix base = C;
+
+        while (exp) {
+            if (exp & 1)
+                matVec(base, vec, m);
+
+            base = multiply(base, base, m);
+            exp >>= 1;
+        }
+
+        long long ans = 0;
+        for (int i = 0; i < m; i++)
+            ans = (ans + vec[i]) % MOD;
+
+        ans = ans * 2 % MOD;
+
+        return (int)ans;
     }
 };
