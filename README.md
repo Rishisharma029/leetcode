@@ -68,6 +68,7 @@
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
+| [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Math
@@ -233,6 +234,7 @@
 | [0056-merge-intervals](https://github.com/Rishisharma029/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rishisharma029/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishisharma029/leetcode/tree/master/0088-merge-sorted-array) |
+| [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -413,6 +415,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisharma029/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishisharma029/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -533,4 +536,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
