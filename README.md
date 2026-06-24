@@ -65,6 +65,7 @@
 | [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rishisharma029/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rishisharma029/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -178,6 +179,7 @@
 | [0127-word-ladder](https://github.com/Rishisharma029/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rishisharma029/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rishisharma029/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -214,6 +216,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishisharma029/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -376,6 +379,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishisharma029/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rishisharma029/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rishisharma029/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
@@ -416,6 +420,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishisharma029/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -486,6 +491,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
