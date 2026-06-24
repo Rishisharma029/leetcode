@@ -62,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rishisharma029/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -404,6 +405,7 @@
 | [0055-jump-game](https://github.com/Rishisharma029/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisharma029/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisharma029/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
