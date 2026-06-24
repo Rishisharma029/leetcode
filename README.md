@@ -287,6 +287,7 @@
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -527,4 +528,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
+| [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
