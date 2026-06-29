@@ -69,6 +69,7 @@
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/Rishisharma029/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
@@ -313,6 +314,7 @@
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Search Tree
@@ -514,6 +516,7 @@
 | [0079-word-search](https://github.com/Rishisharma029/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishisharma029/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -556,11 +559,13 @@
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
