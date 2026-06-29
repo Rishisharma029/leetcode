@@ -98,6 +98,7 @@
 | [0089-gray-code](https://github.com/Rishisharma029/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Rishisharma029/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
@@ -124,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/Rishisharma029/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Rishisharma029/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
+| [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
