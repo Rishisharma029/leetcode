@@ -376,6 +376,7 @@
 | [0044-wildcard-matching](https://github.com/Rishisharma029/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rishisharma029/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Rishisharma029/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 ## Design
@@ -441,6 +442,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishisharma029/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishisharma029/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishisharma029/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/Rishisharma029/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
