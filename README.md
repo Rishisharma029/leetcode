@@ -102,6 +102,7 @@
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
+| [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@
 | [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sorting
@@ -613,4 +615,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
