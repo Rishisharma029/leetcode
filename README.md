@@ -155,6 +155,7 @@
 | [0191-number-of-1-bits](https://github.com/Rishisharma029/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rishisharma029/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
+| [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
+| [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -460,6 +462,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisharma029/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisharma029/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -547,6 +550,7 @@
 | [0070-climbing-stairs](https://github.com/Rishisharma029/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
