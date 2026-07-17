@@ -74,6 +74,7 @@
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -199,6 +200,7 @@
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -323,6 +325,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Search Tree
 |  |
@@ -572,16 +575,19 @@
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishisharma029/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
@@ -623,4 +629,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
