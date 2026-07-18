@@ -158,6 +158,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rishisharma029/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/Rishisharma029/leetcode/tree/master/0401-binary-watch) |
 ## String
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | [0126-word-ladder-ii](https://github.com/Rishisharma029/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rishisharma029/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
+| [0401-binary-watch](https://github.com/Rishisharma029/leetcode/tree/master/0401-binary-watch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
