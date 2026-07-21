@@ -75,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -430,6 +431,7 @@
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
