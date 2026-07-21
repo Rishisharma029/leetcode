@@ -76,6 +76,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -345,6 +346,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishisharma029/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishisharma029/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -471,6 +474,7 @@
 | [0134-gas-station](https://github.com/Rishisharma029/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -637,4 +641,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
