@@ -77,6 +77,7 @@
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -435,6 +436,7 @@
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -463,6 +465,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishisharma029/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rishisharma029/leetcode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
