@@ -79,6 +79,7 @@
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Math
@@ -207,6 +208,7 @@
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Stack
 |  |
@@ -251,6 +253,7 @@
 | [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Rishisharma029/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting
@@ -330,6 +334,7 @@
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishisharma029/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 | [1192-critical-connections-in-a-network](https://github.com/Rishisharma029/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Search Tree
 |  |
@@ -587,6 +592,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 ## Union-Find
 |  |
 | ------- |
@@ -594,6 +600,7 @@
 | [0130-surrounded-regions](https://github.com/Rishisharma029/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
