@@ -78,6 +78,7 @@
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Rishisharma029/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Rishisharma029/leetcode/tree/master/0912-sort-an-array) |
@@ -442,6 +443,7 @@
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rishisharma029/leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Rishisharma029/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -655,4 +657,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rishisharma029/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rishisharma029/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
