@@ -108,6 +108,7 @@
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Rishisharma029/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Rishisharma029/leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/Rishisharma029/leetcode/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rishisharma029/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
@@ -567,6 +568,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Rishisharma029/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rishisharma029/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Rishisharma029/leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Rishisharma029/leetcode/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -669,4 +671,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rishisharma029/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rishisharma029/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
