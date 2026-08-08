@@ -207,6 +207,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Rishisharma029/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rishisharma029/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/Rishisharma029/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
@@ -538,6 +539,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishisharma029/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -675,4 +677,24 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rishisharma029/leetcode/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
