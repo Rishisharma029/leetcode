@@ -209,6 +209,7 @@
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0299-bulls-and-cows](https://github.com/Rishisharma029/leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Rishisharma029/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -254,6 +255,7 @@
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Rishisharma029/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Rishisharma029/leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Rishisharma029/leetcode/tree/master/0398-random-pick-index) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Rishisharma029/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rishisharma029/leetcode/tree/master/0692-top-k-frequent-words) |
