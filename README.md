@@ -210,6 +210,7 @@
 | [0214-shortest-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/Rishisharma029/leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Rishisharma029/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishisharma029/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -523,6 +524,7 @@
 | [0126-word-ladder-ii](https://github.com/Rishisharma029/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rishisharma029/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Rishisharma029/leetcode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Rishisharma029/leetcode/tree/master/0401-binary-watch) |
 ## Heap (Priority Queue)
 |  |
@@ -604,6 +606,7 @@
 | [0133-clone-graph](https://github.com/Rishisharma029/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishisharma029/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rishisharma029/leetcode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishisharma029/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Rishisharma029/leetcode/tree/master/0721-accounts-merge) |
 ## Union-Find
