@@ -73,6 +73,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Rishisharma029/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Rishisharma029/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishisharma029/leetcode/tree/master/0229-majority-element-ii) |
+| [0321-create-maximum-number](https://github.com/Rishisharma029/leetcode/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rishisharma029/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Rishisharma029/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Rishisharma029/leetcode/tree/master/0403-frog-jump) |
@@ -134,6 +135,7 @@
 | [0125-valid-palindrome](https://github.com/Rishisharma029/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rishisharma029/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishisharma029/leetcode/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/Rishisharma029/leetcode/tree/master/0321-create-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishisharma029/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0227-basic-calculator-ii](https://github.com/Rishisharma029/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishisharma029/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0321-create-maximum-number](https://github.com/Rishisharma029/leetcode/tree/master/0321-create-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -493,6 +496,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisharma029/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisharma029/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishisharma029/leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Rishisharma029/leetcode/tree/master/0321-create-maximum-number) |
 | [0397-integer-replacement](https://github.com/Rishisharma029/leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Rishisharma029/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Trie
@@ -567,6 +571,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishisharma029/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishisharma029/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rishisharma029/leetcode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/Rishisharma029/leetcode/tree/master/0321-create-maximum-number) |
 ## Simulation
 |  |
 | ------- |
